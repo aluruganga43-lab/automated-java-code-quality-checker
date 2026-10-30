@@ -1,0 +1,1 @@
+# automated-java-code-quality-checker
